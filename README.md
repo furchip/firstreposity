@@ -7,5 +7,5 @@ Sito costruito sulla base presa da: https://www.free-css.com/free-css-templates/
 <br>Testo preso da Taxi B
 
 <a href="https://github.com/furchip/firstreposity"> My GitHub </a>   <a href="furchi.web.app"> My WebSite </a>
-<br>Link github: https://github.com/furchip/firstreposit
+<br>Link github: https://github.com/furchip/firstreposity
 <br>Link sito: https://furchi.web.app/
